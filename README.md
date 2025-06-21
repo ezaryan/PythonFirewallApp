@@ -67,7 +67,7 @@ We use [Inno Setup](https://jrsoftware.org/isdl.php) to package a Windows instal
 
 | File/Folder                | Purpose                             |
 | -------------------------- | ----------------------------------- |
-| `main.py`                  | Main application GUI script         |
+| `firewall_gui.py`                  | Firewall application GUI script         |
 | `requirements.txt`         | Python dependencies                 |
 | `dist/`                    | Output folder for `.exe` build      |
 | `output/`                  | Output folder for Windows installer |
