@@ -89,7 +89,7 @@ MIT License — see `LICENSE` file for details.
 
 ## 🙌 Credits
 
-Created by [Aryan Pagar](https://github.com/ezaryan) & [Sumant Patil](https://github.com/)
+Created by [Aryan Pagar](https://github.com/ezaryan) & [Sumant Patil](https://github.com/sumant737)
 
 ---
 
