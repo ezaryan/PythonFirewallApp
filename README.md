@@ -91,19 +91,6 @@ MIT License — see `LICENSE` file for details.
 
 Created by [Aryan Pagar](https://github.com/ezaryan) & [Sumant Patil](https://github.com/sumant737)
 
----
 
 
 
----
-
-### ✅ Next Steps:
-- Replace `your-username` with your actual GitHub username.
-- Add a screenshot section (just drag and drop PNGs into the GitHub repo later).
-- Add a `requirements.txt` with dependencies like:
-
-````
-psutil
-pystray
-Pillow
-````
