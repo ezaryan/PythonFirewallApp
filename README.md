@@ -33,7 +33,7 @@ Download the latest installer `.exe` from the [Releases](https://github.com/your
 4. Run the app:
 
    ```
-   python main.py
+   python firewall_gui.py
    ```
 
 ---
@@ -48,7 +48,7 @@ Download the latest installer `.exe` from the [Releases](https://github.com/your
 2. Build the `.exe`:
 
    ```
-   pyinstaller --onefile --noconsole --icon=app.ico main.py
+   pyinstaller --onefile --noconsole --icon=app.ico firewall_gui.py
    ```
 
 ---
