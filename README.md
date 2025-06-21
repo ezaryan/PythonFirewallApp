@@ -72,9 +72,14 @@ We use [Inno Setup](https://jrsoftware.org/isdl.php) to package a Windows instal
 | `dist/`                    | Output folder for `.exe` build      |
 | `output/`                  | Output folder for Windows installer |
 | `FirewallAppInstaller.iss` | Inno Setup installer script         |
-
+| `requirements.txt`         | Requirements file to install all dependencies|
 ---
 
+## To install all dependencies:
+Copy
+`pip install -r requirements.txt`
+
+---
 ## ⚠️ Disclaimer
 
 This application makes changes to **Windows Firewall** rules. Use it responsibly and with admin privileges. It is intended for **educational purposes** only.
