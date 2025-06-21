@@ -72,7 +72,6 @@ We use [Inno Setup](https://jrsoftware.org/isdl.php) to package a Windows instal
 | `dist/`                    | Output folder for `.exe` build      |
 | `output/`                  | Output folder for Windows installer |
 | `FirewallAppInstaller.iss` | Inno Setup installer script         |
-| `requirements.txt`         | Requirements file to install all dependencies|
 ---
 
 ## To install all dependencies:
